@@ -12,5 +12,6 @@
       android:text="HI"/>
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:hint="Whats UP"/>
 </android.support.constraint.ConstraintLayout>
